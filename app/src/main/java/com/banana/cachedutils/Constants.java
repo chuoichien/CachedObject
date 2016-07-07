@@ -1,15 +1,3 @@
-/**
- * Constants.java
- * <p/>
- * Purpose              :
- * <p/>
- * Optional info        :
- *
- * @author : Huy Duong Tu
- * @date : 26 Sep 2012
- * @lastChangedRevision :
- * @lastChangedDate :
- */
 package com.banana.cachedutils;
 
 
