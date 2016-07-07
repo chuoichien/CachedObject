@@ -66,7 +66,7 @@ define a time as you need in millisecond
 
 #Load a object arrays
 ```
-cachedUtils.loadData("method_name_you_want", HomeBanner.class, new CachedUtils.ICachedLoaded<BoxObj>() {
+cachedUtils.loadData("method_name_you_want", HomeBanner.class, new CachedUtils.ICachedLoaded<HomeBanner>() {
                     @Override
                     public void onFinish(final ArrayList<HomeBanner> iData) {
                        //handle your arraylist
