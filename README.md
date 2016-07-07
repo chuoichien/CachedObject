@@ -61,7 +61,7 @@ These are 3 cached type you can use
 static public final long CACHED_TYPE_READ_ONCE = -1L;
 static public final long CACHED_TYPE_FOREVER = 0L;
 or
-define a time as you need in milisecond
+define a time as you need in millisecond
 ```
 
 #Load a object arrays
