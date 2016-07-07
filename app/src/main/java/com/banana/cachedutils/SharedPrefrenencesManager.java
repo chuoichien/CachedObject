@@ -1,15 +1,3 @@
-/**
- * SharedPrefrenencesManager.java
- * <p/>
- * Purpose              :
- * <p/>
- * Optional info        :
- *
- * @author : Huy Duong Tu
- * @date : Oct 12, 2012
- * @lastChangedRevision :
- * @lastChangedDate :
- */
 package com.banana.cachedutils;
 
 import android.content.Context;
